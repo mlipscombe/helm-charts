@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  boiler-mate:
+  - apiVersion: v2
+    appVersion: 0.9.1
+    created: "2021-10-31T01:36:36.276097724Z"
+    description: A Helm chart for boiler-mate
+    digest: 0a12d210920a408eb4652bfebbb8e4233fe767f8bb84985f32548f4f332199cc
+    name: boiler-mate
+    type: application
+    urls:
+    - https://mlipscombe.github.io/helm-charts/boiler-mate-0.9.1.tgz
+    version: 0.9.1
+generated: "2021-10-31T01:36:36.275303998Z"
