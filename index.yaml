@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   boiler-mate:
   - apiVersion: v2
+    appVersion: 0.9.3
+    created: "2021-10-31T02:10:54.852269901Z"
+    description: A Helm chart for boiler-mate
+    digest: 87f947d86e2a115d39cacbd13f2e02e4499e6451f5de3312d0c4ff7b0a521035
+    name: boiler-mate
+    type: application
+    urls:
+    - https://mlipscombe.github.io/helm-charts/boiler-mate-0.9.3.tgz
+    version: 0.9.3
+  - apiVersion: v2
     appVersion: 0.9.1
-    created: "2021-10-31T01:52:44.671644663Z"
+    created: "2021-10-31T02:10:54.851631301Z"
     description: A Helm chart for boiler-mate
     digest: 4895be9fdffc42e202033d4f1ad041e4da6ca65a7a5edcbccea08edd208f643a
     name: boiler-mate
@@ -13,7 +23,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: 0.9.1
-    created: "2021-10-31T01:52:44.671060874Z"
+    created: "2021-10-31T02:10:54.850999914Z"
     description: A Helm chart for boiler-mate
     digest: 0a12d210920a408eb4652bfebbb8e4233fe767f8bb84985f32548f4f332199cc
     name: boiler-mate
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://mlipscombe.github.io/helm-charts/boiler-mate-0.9.1.tgz
     version: 0.9.1
-generated: "2021-10-31T01:52:44.670270168Z"
+generated: "2021-10-31T02:10:54.850139366Z"
